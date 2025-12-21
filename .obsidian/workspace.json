@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Java/01 JVM/03 GC 사전 지식.md",
+                "file": "01 Java/01 JVM/02 G1 GC를 중심으로.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 GC 사전 지식"
+              "title": "02 G1 GC를 중심으로"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "44cbfecf789bdac6",
   "lastOpenFiles": [
-    "01 Java/01 JVM/01 JVM 클래스로더와 런타임 데이터 영역을 중심으로.md",
     "01 Java/01 JVM/03 GC 사전 지식.md",
     "01 Java/01 JVM/02 G1 GC를 중심으로.md",
-    "README.md"
+    "README.md",
+    "01 Java/01 JVM/01 JVM 클래스로더와 런타임 데이터 영역을 중심으로.md"
   ]
 }
