@@ -109,22 +109,18 @@ Gradle 설치 없이도 동일한 버전으로 빌드를 실행할 수 있게 �
 	- Gradle이 빌드 과정에서 생성하는 **캐시와 결과물**이 저장
 
 
-### Settings.gradle
-
-```
-// 1. 루트 프로젝트 이름 설정 (일관성을 위해 항상 지정하는 것이 권장됨)
-rootProject.name = 'my-complex-project' [5, 6]
-
-// 2. 빌드에 포함할 서브프로젝트(모듈) 정의
-// 기본적으로 프로젝트 경로 ':app'은 물리적 디렉토리 './app'에 매핑된다.
-include 'app', 'core', 'utils' [4, 7]
-```
-
 ### build.gradle
 
 ```
 plugins
 
 
+
+```
+
+
+### Settings.gradle
+
+```
 
 ```
